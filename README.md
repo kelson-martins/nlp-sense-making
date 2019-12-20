@@ -7,7 +7,9 @@ The paper describes the challenges that even the state of the art NLP techniques
 3 Tasks are presented in the Paper, and this repository tackled each with the following NLP techniques:
 
 Task 1: BERT
+
 Task 2: BERT
+
 Task 3: GPT
 
 #### Task 1:  Validation Task
